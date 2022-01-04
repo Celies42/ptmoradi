@@ -31,7 +31,7 @@ a {text-decoration: none;}
 /*scroll with static image in the bg*/
 .parallax {
   /* The image used */
-  background-image: url("korosh-field.jpg");
+  background-image: url("korosh-test.jpg");
 
   /* Set a specific height */
   min-height: 600px; 
